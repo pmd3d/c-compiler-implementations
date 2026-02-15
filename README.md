@@ -15,6 +15,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [C++](#c-1)
   * [Clojure](#clojure)
   * [Cython](#cython)
+  * [F#](#f)
   * [Go](#go)
   * [Haskell](#haskell)
   * [Jai](#jai)
@@ -74,6 +75,9 @@ For projects hosted elsewhere, use this format:
 ## Cython
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
+
+## F#
+* [pmd3d/clod--](https://github.com/pmd3d/clod--) - Runs on WSL2 Ubuntu Linux with gcc. No extra credit or optimizations. Dotnet 8 F# partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
 
 ## Go
 
